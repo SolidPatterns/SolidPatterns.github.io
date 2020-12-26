@@ -1,0 +1,11 @@
+kemal:
+  username: quemarlos
+  name: Kemal Gültekin
+  location: Amsterdam
+  url_full: http://kemalgultekin.com/
+  url: kemalgultekin.com
+  bio: Solutions Architect @DeptAgency. Software engineer, windsurfer, kitesurfer, wonderer with an everlasting craving for lasagna.
+  picture: assets/images/kemal.jpg
+  # facebook: False
+  twitter: quemarlos
+  cover: False
