@@ -70,7 +70,7 @@ lsi: False
 username: solidpatterns
 repo: blog
 branch: main
-relative_source: ../blog/
+relative_source: blog/
 destination: _site/
 production_url:  https://solidpatterns.github.io/blog/
 source_url:  https://github.com/solidpatterns/blog/
@@ -92,4 +92,4 @@ exclude:
   - script.py
   - changelog.md
   - "*.Rmd"
-  - .git*
+  - .git*`
