@@ -31,12 +31,12 @@ google_analytics_id: #UA-XXXX-Y
 safe: False
 lsi: False
 username: solidpatterns
-repo: blog
+repo: SolidPatterns.github.io
 branch: main
-relative_source: blog/
+relative_source: /
 destination: _site/
-production_url:  https://solidpatterns.github.io/blog/
-source_url:  https://github.com/solidpatterns/blog/
+production_url:  https://solidpatterns.github.io/
+source_url:  https://github.com/solidpatterns/SolidPatterns.github.io/
 
 exclude:
   - assets/css
