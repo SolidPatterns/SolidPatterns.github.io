@@ -80,8 +80,6 @@ exclude:
   - node_modules
   - vendor
   - .travis.yml
-  - Gemfile
-  - Gemfile.lock
   - GHOST.txt
   - gulpfile.js
   - LICENSE
@@ -93,3 +91,5 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+#  - Gemfile
+#  - Gemfile.lock
