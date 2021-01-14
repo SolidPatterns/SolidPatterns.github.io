@@ -69,7 +69,7 @@ safe: False
 lsi: False
 username: solidpatterns
 repo: SolidPatterns.github.io
-branch: main
+branch: main-ghost
 relative_source: ../
 destination: _site/
 production_url:  https://solidpatterns.github.io/
