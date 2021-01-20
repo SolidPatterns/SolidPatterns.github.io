@@ -2,7 +2,7 @@
 title:               Kemal Gultekin
 tagline:             'My personal blog on software, leadership and soft skills.'
 description:         'My desc.'
-url:                 http://lanyon.getpoole.com
+url:                 https://solidpatterns.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
